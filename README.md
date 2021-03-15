@@ -13,5 +13,5 @@ password=
 recepient=
 cc=
 ```
-
+Don't use Symbols for your password you could waste 6 hours on debugging lol
 Run `setup.bash` -> Make sure your php executable is `/usr/bin/php`
